@@ -1,2 +1,10 @@
 # RonaDesk-API
- RonaDesk Web Server
+ RonaDesk API to service web server.
+
+
+## Modules
+
+- Docker
+- TypeScript
+- Express
+- DotEnv
