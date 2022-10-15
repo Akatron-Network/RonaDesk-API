@@ -1,7 +1,10 @@
 # RonaDesk-API
  RonaDesk API to service web server.
 
-`npm start`
+```
+npm install
+npm start
+```
 
 ## Modules
 
