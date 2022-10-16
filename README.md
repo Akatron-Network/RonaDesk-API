@@ -11,5 +11,6 @@ npm start
 - Docker
 - TypeScript
 - Express
+- Prisma
 - DotEnv
 - Passport
