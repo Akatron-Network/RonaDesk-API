@@ -1,7 +1,7 @@
 # RonaDesk-API
  RonaDesk API to service web server and database
 
-```shell
+```Shell
 npm install
 npm start
 ```
