@@ -12,3 +12,4 @@ npm start
 - TypeScript
 - Express
 - DotEnv
+- Passport
