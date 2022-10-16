@@ -1,5 +1,5 @@
 # RonaDesk-API
- RonaDesk API to service web server.
+ RonaDesk API to service web server and database
 
 ```
 npm install
